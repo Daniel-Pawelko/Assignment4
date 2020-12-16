@@ -1,0 +1,128 @@
+body{
+  background-color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: sans-serif;
+}
+
+.nextButton{
+  color: #0099CC;
+  position: relative;
+  font-family: sans-serif;
+  background: transparent;
+  border: 2px solid #0099CC;
+  border-radius: 6px;
+  padding: 15px 32px;
+  right: -45%;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer; 
+}
+
+.nextButton:hover{
+  background-color: #008CBA;      
+  color: white;
+}
+
+.backButton{
+  color: #0099CC;
+  position: relative;
+  font-family: sans-serif;
+  background: transparent;
+  border: 2px solid #0099CC;
+  border-radius: 6px;
+  padding: 15px 32px;
+  left: 40%;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer; 
+}
+
+.backButton:hover{
+  background-color: #008CBA;      
+  color: white;
+}
+
+div{
+  width: 100%;
+  height: 717px;
+  background-color: gainsboro;
+}
+
+.pageTitle{
+  text-align: center;
+  font-size: 45px;
+  font-family: monospace;
+}
+
+.subTitle{
+  text-align: center;
+  font-size: 35px;
+  font-family: monospace;
+  color: grey;
+}
+
+.leftDiv{
+  width: 500px;
+  height: 400px;
+  background-color: white;
+  float: left;
+  border: 10px solid white;
+  align-content: center;
+}
+
+.rightDiv{
+  width: 500px;
+  height: 400px;
+  background-color: white;
+  float: right;
+  border: 10px solid white;
+  align-content: center;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+h3{
+  line-height: 1.8;
+}
+
+strong{
+  font-weight: 500;
+}
+
+/* ANYTHING AFTER THIS IS SINGLE USE */
+/* ANYTHING AFTER THIS IS SINGLE USE */
+/* ANYTHING AFTER THIS IS SINGLE USE */
+/* ANYTHING AFTER THIS IS SINGLE USE */
+/* ANYTHING AFTER THIS IS SINGLE USE */
+/* ANYTHING AFTER THIS IS SINGLE USE */
+
+#firstFlag{
+  width: auto;
+  height: 200px;
+}
+
+#appleOne{
+  width: 500px;
+  height: auto;
+}
+
+#appleTwo{
+  width: 400px;
+  height: auto;
+}
+
+#steveJobs{
+  width: 400px;
+  height: auto;
+}
+
+#steveToday{
+  width: 400px;
+  height: auto;
+}
